@@ -2,14 +2,14 @@
 
 ### Me
 - 🌱 Exploring new technologies and developing software solutions.
-- 👀 I’m interested in Web Developement and Machine Learning.
+- 👀 I’m interested in Web Developement, Automation and Machine Learning.
 - 💻 Presently working as Python Developer.
 - :star: Enthusiast in Machine Learning and Artifical Intelligence.  
 
 ### My Profile
->> - This is My Learning Github Profile. All the repositories here are the projects developed by me while learning the topic.
+>> - All the repositories here are the projects developed by me while learning the topic or working on it.
 >> - I use Python as my primary Language.
->> - My Repositories contain mostly Algorithms and Web  Developement Projects.  
+>> - You can find Algorithms, Automation Scripts and Web Developement Projects in here.  
 
 
 :relaxed:_Thank You
