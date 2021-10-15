@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m @CyanGirl!
+## 👋 Hey there, I’m Subhasree!
 
 ### Me
 - 🌱 Exploring new technologies and developing software solutions.
