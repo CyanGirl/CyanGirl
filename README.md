@@ -8,7 +8,7 @@
 
 ### My Profile
 >> - All the repositories here are the projects developed by me while learning the topic or working on it.
->> - I use Python for Backend and Javascript (& its frameworks) for front-end.
+>> - Using Python for Backend and Javascript (Vue.js,React.js) for front-end.
 >> - Algorithms, Automation Scripts and Web Developement Projects can be found in here.  
 >> - Link for Some Useful automation Snippets : https://gist.github.com/CyanGirl
 
