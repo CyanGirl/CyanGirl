@@ -1,16 +1,16 @@
-## 👋 Hey there, I’m Subhasree!
+## 👋 Hey there, I’m CyanGirl!
 
-### Me
+### About Me
 - 🌱 Exploring new technologies and developing software solutions.
-- 👀 I’m interested in Web Developement, Automation and Data Analysis.
-- 💻 Presently working as Python Developer.
-- :star: Enthusiast in Machine Learning and Artifical Intelligence.  
+- 👀 Obsessed with the idea of solving Problems with bits of codes.
+- 💻 Presently working as Software Developer in Online Media Industry.
+- :star: Interested in Web developement and Intelligent Automation.  
 
 ### My Profile
 >> - All the repositories here are the projects developed by me while learning the topic or working on it.
->> - I use Python as my primary Language.
->> - You can find Algorithms, Automation Scripts and Web Developement Projects in here.  
->> - Some Useful Snippets can be found here : https://gist.github.com/CyanGirl
+>> - I use Python for Backend and Javascript (& its frameworks) for front-end.
+>> - Algorithms, Automation Scripts and Web Developement Projects can be found in here.  
+>> - Link for Some Useful automation Snippets : https://gist.github.com/CyanGirl
 
 
 :relaxed:_Thank You
