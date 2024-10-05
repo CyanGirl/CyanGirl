@@ -3,7 +3,7 @@
 ### About Me
 - 🌱 Exploring new technologies and developing software solutions.
 - 👀 Obsessed with the idea of solving Problems with bits of codes.
-- 💻 Presently working as SDE-2 at Amazon India.
+- 💻 Presently working as SWE-III at Google India.
   
 
 ### My Profile
